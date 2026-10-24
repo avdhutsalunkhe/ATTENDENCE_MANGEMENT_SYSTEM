@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+pymysql
+cryptography
+pandas
+openpyxl
+scikit-learn
+python-multipart
+email-validator
+reportlab
+pytest
